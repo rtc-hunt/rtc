@@ -13,4 +13,5 @@ Ideas for library code for the hunt
  * Constraint Satisfaction Solver - Brute force / constraint propagation
  * Esoteric programming language interpreter
  * Extractions library
+ * AutoMeta is to awesome a name not to use.
 
