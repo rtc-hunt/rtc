@@ -12,6 +12,7 @@ Ideas for library code for the hunt
   * Cryptogram solver
   * word search
   * sudoku
+  * paint by numbers
  * Constraint Satisfaction Solver - Brute force / constraint propagation
   * monadiccp (with gecode) for haskell - possibly look at for doing specific solvers.
  * Esoteric programming language interpreter
